@@ -11,5 +11,5 @@ while time > 0:
 		if time > 0:
 			print('還有' , time,'次機會')
 		else:
-			print('機會用盡，請重新申請帳號')
+			print('機會用盡，請重新登入')
 
